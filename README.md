@@ -7,43 +7,28 @@
 <!--LOGO-->
 <br/>
 <div align="center">
-    <h1 color="#ffff" >Initial project config with Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
+    <h1 color="#ffff" >Projeto desenvolvido usando as tecnologias Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
     </br>
 </div>
 
-<!-- ABOUT THE PROJECT -->
+<!-- Sobre o projeto -->
 
-# <strong>About the project</strong>
+# <strong>Portfolio pessoal</strong>
 
-This is a template for initial configuration for projects based in Next Js.
-
-Use and abuse!
+Usei o template inicial baseado em Next Js.
 
 </br>
 
-<!--INSTALATION-->
-
-# <strong>Instalation</strong>
-
-Just clone this repo or use as a template and enjoy!
-
-Good coding!
 
 </br>
 
-# **License**
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-<!-- CONTACT -->
+<!-- CONTATO -->
 </br>
 
-# **Contact**
+# **Contato**
 
-### Renan Oliveira - **renanlido@yahoo.com.br**
+### Messias Vasconcelos - **mmvdesigners@gmail.com**
 
-[Github](https://github.com/renanlido) - **https://github.com/renanlido** </br>
-[Linkedin](https://www.linkedin.com/in/renanlido/) - **https://www.linkedin.com/in/renanlido/**
+[Github](https://github.com/mmvdesigner) - **https://github.com/mmvdesigner** </br>
 
 </br></br>
-Thanks for coming! 😊🤗

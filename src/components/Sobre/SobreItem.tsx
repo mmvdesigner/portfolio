@@ -5,10 +5,7 @@ interface SobreProps {
   description: string;
 }
 
-export default function SobreItem({
-  title,
-  description
-}: SobreProps) {
+export default function SobreItem({ title, description }: SobreProps) {
   return (
     <ItemContainer data-aos="fade-up">
       <div>

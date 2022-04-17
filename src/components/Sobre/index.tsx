@@ -18,7 +18,7 @@ function Sobre() {
         />
         <SobreItem
           title="Infra"
-          description="Provisiono servidor com todas as configurações pra hospedagem das paginas que serão exibidas no seu navegador."
+          description="Provisiono servidor com todas as configurações pra hospedagem das paginas que serão exibidas no seu navegador. Otimizando para que a aplicação esteja em alta disponibilidade, usando os recuros disponíveis para escalar."
         />
         <SobreItem
           title="Dev Front-end & Back-end"

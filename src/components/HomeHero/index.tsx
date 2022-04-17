@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-comment-textnodes */
 import { Container, TextContainer, InfosContainer, CodeItem } from './styles';
-import picture from '../../assets/pessoa.webp';
+import picture from '../../assets/mvdev.webp';
 
 function HomeHero() {
   return (
@@ -26,10 +26,10 @@ function HomeHero() {
           <CodeItem data-aos="zoom-in">
             <span className="purple">Cargo</span> {'\u007B'}
             <div>
-              Função: <span className="blue">Web Developer, Full Stack</span>
+              Função: <span className="blue">Web Developer, Fullstack</span>
             </div>
             <div>
-              Freelancer: <span className="blue">Acaraú - CE</span>
+              Freelancer: <span className="blue"> Aguardando desafios...</span>
             </div>
             {'\u007D'}
           </CodeItem>

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-/*import toast from 'react-hot-toast';*/
+import toast from 'react-hot-toast';
 import { sendContactMail } from '../../services/sendMail';
 import theme from '../../styles/theme';
 import { FormContainer, Input, TextArea } from './styles';

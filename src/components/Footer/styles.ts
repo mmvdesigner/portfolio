@@ -17,10 +17,19 @@ export const Container = styled.footer`
     button {
       background: none;
       border: none;
-      color: ${({ theme }) => theme.secondary};
+      color: ${({ theme }) => theme.text};
       text-transform: uppercase;
       font-weight: 300;
-      font-size: 1.2rem;
+      font-size: 2.3rem;
+
+      &:hover {
+        color: ${({ theme }) => theme.primary};
+      }
+
+    }
+
+    span {
+      color: #73e9b8;
     }
 
     > section {

@@ -1,7 +1,12 @@
 import {
   AiOutlineTwitter,
   AiOutlineGithub,
-  AiFillLinkedin
+  AiFillLinkedin,
+  AiOutlineWhatsApp,
+  AiFillRocket,
+  AiOutlineArrowUp,
+  AiFillUpSquare,
+  AiFillUpCircle
 } from 'react-icons/ai';
 import { Container } from './styles';
 
@@ -21,14 +26,18 @@ function Footer() {
     <Container>
       <div className="container">
         <button type="button" onClick={handleScrollTop}>
-          Voltar ao topo
+          <AiFillUpCircle />
         </button>
+        <span>© mvdevfullstack</span>
         <section>
-          <AiOutlineTwitter
+          {/* <AiOutlineTwitter
             onClick={() => handleRedirect('https://twitter.com')}
+          /> */}
+          <AiOutlineWhatsApp
+            onClick={() => handleRedirect('https://api.whatsapp.com/send?phone=5588999382994&text=Ol%C3%A1%2C%20seja%20bem%20vindo%2C%20aguarde%20um%20instante%20que%20irei%20te%20atender%2C%20obrigado!')}
           />
           <AiOutlineGithub
-            onClick={() => handleRedirect('https://github.com')}
+            onClick={() => handleRedirect('https://github.com/mmvdesigner')}
           />
           <AiFillLinkedin
             onClick={() => handleRedirect('https://www.linkedin.com/in/messias-vasconcelos-55855932/')}

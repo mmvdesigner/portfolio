@@ -1,7 +1,6 @@
 import { ItemContainer } from './styles';
 
 interface SobreProps {
-  year: string;
   title: string;
   description: string;
 }

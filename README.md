@@ -7,28 +7,33 @@
 <!--LOGO-->
 <br/>
 <div align="center">
-    <h1 color="#ffff" >Projeto desenvolvido usando as tecnologias Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
+    <h1 color="#ffff" >Projeto baseado em Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
     </br>
 </div>
 
-<!-- Sobre o projeto -->
+<!-- SOBRE O PROJETO -->
 
-# <strong>Portfolio pessoal</strong>
+# <strong>Sobre o projeto</strong>
 
-Usei o template inicial baseado em Next Js.
+Apresentando portfolio dos meus serviços.
+
+Aqui você encontra diversos projetos em varias tecnologias.
 
 </br>
 
+# **License**
 
-</br>
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 <!-- CONTATO -->
 </br>
 
 # **Contato**
 
-### Messias Vasconcelos - **mmvdesigners@gmail.com**
+### Messias Vasconcelos - **contato@mvdevfullstack.me**
 
 [Github](https://github.com/mmvdesigner) - **https://github.com/mmvdesigner** </br>
+[Linkedin](https://www.linkedin.com/in/messias-vasconcelos-55855932/) - **https://www.linkedin.com/in/messias-vasconcelos-55855932/**
 
 </br></br>
+Obrigado! 😊🤗

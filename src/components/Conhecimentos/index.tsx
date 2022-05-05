@@ -1,5 +1,5 @@
-import { AiFillHtml5, AiOutlineAntCloud, AiOutlineCloudServer } from 'react-icons/ai';
-import { FaAws, FaCss3Alt, FaJava, FaLinux, FaPhp, FaReact } from 'react-icons/fa';
+import { AiFillHtml5, AiOutlineCloudServer } from 'react-icons/ai';
+import { FaCss3Alt, FaLinux, FaNodeJs, FaPhp, FaReact } from 'react-icons/fa';
 import { IoLogoJavascript } from 'react-icons/io5';
 import SectionTitle from '../SectionTitle';
 import ConhecimentoItem from './ConhecimentoItem';
@@ -17,7 +17,7 @@ function Conhecimentos() {
       </section>
       <section>
         <ConhecimentoItem title="PHP" icon={<FaPhp />} />
-        <ConhecimentoItem title="Java" icon={<FaJava />} />
+        <ConhecimentoItem title="Node-js" icon={<FaNodeJs />} />
         <ConhecimentoItem title="Cloud" icon={<AiOutlineCloudServer />} />
         <ConhecimentoItem title="Linux" icon={<FaLinux />} />
       </section>

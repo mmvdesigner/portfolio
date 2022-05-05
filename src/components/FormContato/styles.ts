@@ -13,7 +13,7 @@ export const FormContainer = styled.form`
   > button {
     border: none;
     padding: 1rem 2.5rem;
-    color: #11172b;
+    color: #fff;
     font-weight: 300;
     font-size: 1.2rem;
     border-radius: 0.5rem;

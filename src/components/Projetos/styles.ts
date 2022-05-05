@@ -36,7 +36,7 @@ export const Container = styled.section`
 
     a {
       text-transform: uppercase;
-      color: #11172b;
+      color: #fff;
       font-size: 1.5rem;
       font-weight: 300;
     }

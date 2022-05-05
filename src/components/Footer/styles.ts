@@ -25,11 +25,13 @@ export const Container = styled.footer`
       &:hover {
         color: ${({ theme }) => theme.primary};
       }
-
     }
 
     span {
-      color: #73e9b8;
+      color: #6c88c2;
+      &:hover {
+        color: ${({ theme }) => theme.primary};
+      }
     }
 
     > section {
